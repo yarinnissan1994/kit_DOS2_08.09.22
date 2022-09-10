@@ -1,0 +1,12 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is 607D-315E
+
+ Directory of C:\Users\User\Desktop\kit4
+
+09/10/2022  03:54 PM    <DIR>          .
+09/10/2022  03:54 PM    <DIR>          ..
+09/10/2022  03:54 PM                 0 dir.txt
+09/10/2022  03:53 PM               126 go.bat
+09/10/2022  03:39 PM            62,464 kit4-DOS2.exe
+               3 File(s)         62,590 bytes
+               2 Dir(s)  167,339,585,536 bytes free
